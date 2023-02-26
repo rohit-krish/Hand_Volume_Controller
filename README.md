@@ -1,8 +1,6 @@
 # Hand Volume Controller
-<video autoplay>
-  <source src="https://github.com/rohit-krish/Hand_Volume_Controller/blob/main/example.mkv" type="video/mkv">
-  Preview of the program
-</video>
+<img src="https://github.com/rohit-krish/Hand_Volume_Controller/blob/main/example.png">
+
 just a simple fun project using [mediapipe](https://pypi.org/project/mediapipe/)
 
 Compatable with Debian Based OSs (actually ran only on Kali GNU/Linux Rolling x86_64)
